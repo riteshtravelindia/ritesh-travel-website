@@ -1,0 +1,12 @@
+{
+  "name": "tripora",
+  "version": "1.0.0",
+  "description": "Tripora travel site with admin backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
